@@ -41,7 +41,6 @@ DB - MongoDB
 CLOUD - AWS / S3 / RDS / EC2 / ELB / CloudFront  
 FE - Node.JS / Webpack / Jquery / Javascript / HTML5 / CSS3</br>
 </br>[프로젝트 상세 - Backend](https://github.com/BreedingMe/CoCoBackend/tree/v1.0.0)
-[프로젝트 상세 - Backend](https://github.com/BreedingMe/CoCoBackend/tree/v1.0.0)  
 - - - - -
 </br>
 
