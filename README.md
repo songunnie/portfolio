@@ -18,7 +18,7 @@
 </br>
 
 ## ⚜️ Projects
-### **1. [Coco](https://github.com/songunnie/CoCoBackend)  **
+### **1. [Coco](https://github.com/songunnie/CoCoBackend)**
 > 사이드 프로젝트 기획/구인 서비스 (팀 프로젝트)  
 개발 기간 : 2022.06.27 - 2022.07.29 </br>  
 기술 스택 :  
