@@ -1,6 +1,5 @@
 # 임성언의 portfolio
-어딜 가나 언니/누나가 되어버린 나이 30에 개발 공부를 시작한 예비 개발자입니다.  
-늦은만큼 ∞ 만큼의 시간과 정성을 쏟으며 열심히 공부 중입니다.
+도전적인 환경에서 꾸준히 성장하는 임성언입니다.
 </br>
 </br>
 
@@ -18,8 +17,20 @@
 </br>
 
 ## ⚜️ Projects
-### **1. [Coco](https://github.com/songunnie/CoCoBackend)**
-> 사이드 프로젝트 기획/구인 서비스 (팀 프로젝트)  
+### **1. [MyoMi](https://github.com/songunnie/MyoMiBackend/tree/develop#readme)**
+> 샐러드/도시락/밀키트 정기배송 플랫폼 (팀 프로젝트)  
+개발 기간 : 2023.02.14 - 2023.03.13 </br>  
+기술 스택 :  
+BE - JAVA 11 / Spring Boot / Spring Security / Spring Data JPA / AWS S3
+DB - Oracle 11g / SQL Developer  
+FE - Jquery / Javascript / HTML5 / CSS3</br>
+</br>[프로젝트 상세 - Backend](https://github.com/songunnie/MyoMiBackend/tree/develop)  
+[프로젝트 상세 - Frontend](https://github.com/songunnie/MyoMiFrontend/tree/develop)  
+- - - - -
+</br>
+
+### **2. [Coco](https://github.com/songunnie/CoCoBackend)**
+> 사이드 프로젝트 기획/구인 서비스 (팀 프로젝트) 
 개발 기간 : 2022.06.27 - 2022.07.29 </br>  
 기술 스택 :  
 BE - JAVA 8 / Spring Boot / Spring Security / JPA  
@@ -32,7 +43,7 @@ FE - Node.JS / Webpack / Jquery / Javascript / HTML5 / CSS3</br>
 - - - - -
 </br>
 
-### **2. Coco (python ver.)**
+### **3. Coco (python ver.)**
 > 사이드 프로젝트 기획/구인 서비스 (팀 프로젝트)  
 개발 기간 : 2022.05.06 - 2022.05.12 </br>  
 기술 스택 :  
@@ -44,7 +55,7 @@ FE - Node.JS / Webpack / Jquery / Javascript / HTML5 / CSS3</br>
 - - - - -
 </br>
 
-### **3. Step With Dog (스위독)**
+### **4. Step With Dog (스위독)**
 > 반려동물 산책 코스 공유 서비스 (팀 프로젝트)  
 개발 기간 : 2022.04.19 - 2022.04.22 </br>  
 기술 스택 :  
