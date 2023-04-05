@@ -38,7 +38,7 @@ DB - H2 / MySQL
 CLOUD - AWS / S3 / RDS / EC2 
 ETC - Github Actions  
 FE - Node.JS / Webpack / Jquery / Javascript / HTML5 / CSS3</br>
-</br>[프로젝트 상세 - Backend](https://github.com/BreedingMe/CoCoBackend)  
+</br>[프로젝트 상세 - Backend](https://github.com/songunnie/CoCoBackend)  
 [프로젝트 상세 - Frontend](https://github.com/BreedingMe/CoCoFrontend)  
 - - - - -
 </br>
