@@ -24,8 +24,8 @@
 BE - JAVA 11 / Spring Boot / Spring Security / Spring Data JPA / AWS S3
 DB - Oracle 11g / SQL Developer  
 FE - Jquery / Javascript / HTML5 / CSS3</br>
-</br>[프로젝트 상세 - Backend](https://github.com/songunnie/MyoMiBackend/tree/develop)  
-[프로젝트 상세 - Frontend](https://github.com/songunnie/MyoMiFrontend/tree/develop)  
+</br>[프로젝트 상세 - Backend](https://github.com/songunnie/MyoMiBackend)  
+[프로젝트 상세 - Frontend](https://github.com/songunnie/MyoMiFrontend)  
 - - - - -
 </br>
 
