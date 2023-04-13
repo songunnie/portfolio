@@ -20,24 +20,30 @@
 ### **1. [MyoMi](https://github.com/songunnie/MyoMiBackend/tree/develop#readme)**
 > 샐러드/도시락/밀키트 정기배송 플랫폼 (팀 프로젝트)  
 개발 기간 : 2023.02.14 - 2023.03.13 </br>  
-기술 스택 :  
-BE - JAVA 11 / Spring Boot / Spring Security / Spring Data JPA / AWS S3
-DB - Oracle 11g / SQL Developer  
-FE - Jquery / Javascript / HTML5 / CSS3</br>
+기술 스택 :  <br>
+Back-end : Java 11 / Spring Boot 2.7.1 / Spring Data JPA / Maven / AWS S3 Front-end : HTML / CSS / Javascript<br>
+Server : Spring Boot Tomcat<br>
+Database : Oracle 11g<br>
+Framework : Spring Framework / Spring Security / Mybatis / Swagger<br>
+Cloud : AWS S3<br>
+IDE : Eclipse / VSCode / SQL Developer / Postman<br>
+API, Library : RESTful API (JSON) / Jquery</br>
 </br>[프로젝트 상세 - Backend](https://github.com/songunnie/MyoMiBackend)  
 [프로젝트 상세 - Frontend](https://github.com/songunnie/MyoMiFrontend)  
 - - - - -
 </br>
 
 ### **2. [Coco](https://github.com/songunnie/CoCoBackend)**
-> 사이드 프로젝트 기획/구인 서비스 (팀 프로젝트) 
+> 사이드 프로젝트 기획/구인 서비스 (팀 프로젝트)  </br>
 개발 기간 : 2022.06.27 - 2022.07.29 </br>  
-기술 스택 :  
-BE - JAVA 8 / Spring Boot / Spring Security / JPA  
-DB - H2 / MySQL  
-CLOUD - AWS / S3 / RDS / EC2 
-ETC - Github Actions  
-FE - Node.JS / Webpack / Jquery / Javascript / HTML5 / CSS3</br>
+기술 스택 : </br>
+Backend: Java 11 / Spring Boot 2.7.1 / Spring Data JPA / Gradle 7.4.1 </br>
+Front-end : HTML / CSS / Javascript </br>
+Database: AWS RDS (MySQL 8.0.28) </br>
+Framework : Spring Framework / Spring Security </br>
+Cloud : AWS RDS, AWS EC2, AWS CloudFront, AWS S3 CI/CD : Github Actions </br>
+IDE : IntelliJ IDEA / VSCode / SQL Developer / Postman </br>
+API, Library : RESTful API (JSON) / Jquery </br>
 </br>[프로젝트 상세 - Backend](https://github.com/songunnie/CoCoBackend)  
 [프로젝트 상세 - Frontend](https://github.com/BreedingMe/CoCoFrontend)  
 - - - - -
