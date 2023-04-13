@@ -17,7 +17,7 @@
 </br>
 
 ## ⚜️ Projects
-### **1. [MyoMi](https://github.com/songunnie/MyoMiBackend/tree/develop#readme)**
+### **1. [MyoMi](https://github.com/songunnie/MyoMiBackend)**
 > 샐러드/도시락/밀키트 정기배송 플랫폼 (팀 프로젝트)  
 개발 기간 : 2023.02.14 - 2023.03.13 </br>  
 기술 스택 :  <br>
